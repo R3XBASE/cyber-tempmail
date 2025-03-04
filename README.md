@@ -20,7 +20,7 @@ CyberMail is a cyberpunk-themed temporary email generation and management tool t
 1. Clone the repository:
 ```bash
 git clone https://github.com/R3XBASE/cyber-tempmail.git
-cd cybermail
+cd cyber-tempmail
 ```
 
 2. Install required dependencies:
